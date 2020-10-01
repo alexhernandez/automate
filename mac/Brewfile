@@ -1,0 +1,56 @@
+# Hombrew
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+
+# Homebrew Cask
+tap "caskroom/cask"
+tap "caskroom/versions"
+
+# Browsers
+cask "google-chrome"
+cask "firefox"
+
+# Design
+cask "figma"
+cask "sketch"
+cask "adobe-creative-cloud"
+
+# Dev Tools
+cask "hyper"
+cask "visual-studio-code"
+cask "android-studio"
+cask "react-native-debugger"
+cask "virtualbox"
+cask "vagrant"
+cask "transmit"
+cask "github-desktop"
+cask "mamp"
+cask "cheatsheet"
+
+# Dev Software
+brew "git"
+brew "python"
+brew "ios-webkit-debug-proxy"
+brew "maven"
+brew "mkcert"
+brew "node@12"
+brew "node@10", link: true
+brew "node@8"
+brew "nss"
+brew "tree"
+brew "watchman"
+brew "wget"
+brew "mysql"
+brew "wifi-password"
+tap "adoptopenjdk/openjdk"
+cask "adoptopenjdk11"
+cask "adoptopenjdk8"
+
+# Misc.
+cask "alfred"
+cask "evernote"
+cask "spotify"
+cask "spotify-notifications"
+cask "sonos"
+cask "slack"

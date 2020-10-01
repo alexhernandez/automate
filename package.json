@@ -1,0 +1,19 @@
+{
+  "name": "automate",
+  "version": "1.0.0",
+  "author": "Alex Hernandez",
+  "keywords": ["automation"],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "mac-setup": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexhernandez/automate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexhernandez/automate/issues"
+  },
+  "homepage": "https://github.com/alexhernandez/automate#readme"
+}
