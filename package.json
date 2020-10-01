@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "mac-setup": "node index.js"
+    "mac-setup": "cd mac; node index.js; cd .."
   },
   "repository": {
     "type": "git",
