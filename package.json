@@ -1,7 +1,8 @@
 {
   "name": "automate",
-  "version": "1.0.0",
   "author": "Alex Hernandez",
+  "version": "1.0.0",
+  "private": true,
   "keywords": ["automation"],
   "license": "MIT",
   "main": "index.js",
